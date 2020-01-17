@@ -1,0 +1,3 @@
+In [3]: noRU = Author.objects.exclude(country = 'RU')
+
+In [4]: Book_noRU = Book.objects.filter(author = noRU)
