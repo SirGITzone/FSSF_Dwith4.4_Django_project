@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8f5aa28-50f8-4318-84e9-c29ee015c7c1" name="Default Changelist" comment="" />
+    <list default="true" id="b8f5aa28-50f8-4318-84e9-c29ee015c7c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +51,6 @@
             <path>
               <item name="Base" type="b2602c69:ProjectViewProjectNode" />
               <item name="Base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Base" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,7 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="18.01 morning" />
-    <option name="LAST_COMMIT_MESSAGE" value="18.01 morning" />
+    <MESSAGE value="exp" />
+    <option name="LAST_COMMIT_MESSAGE" value="exp" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/af;dgj;dfgjkhs;kjfghdslfkgj.py" />
