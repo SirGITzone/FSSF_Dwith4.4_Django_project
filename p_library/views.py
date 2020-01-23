@@ -1,3 +1,4 @@
+# coding: utf-8 
 from django.shortcuts import render
 
 # Create your views here.
@@ -14,13 +15,24 @@ def books_list(request):
 
 
 
+# def index(request):
+#     template = loader.get_template('index.html')
+#     books_count = Book.objects.all().count()
+#     books = Book.objects.all()
+#     biblio_data = {
+#         "title": "мою библиотеку",
+#         "books_count": books_count,
+#         "books": books,
+#     }
+#     return HttpResponse(template.render(biblio_data))
+
+
 def index(request):
+    list_from_1_to_100 = list(range(1,100))
     template = loader.get_template('index.html')
-    books_count = Book.objects.all().count()
     books = Book.objects.all()
     biblio_data = {
         "title": "мою библиотеку",
-        "books_count": books_count,
         "books": books,
     }
-    return HttpResponse(template.render(biblio_data))
+    return HttpResponse(template.render(biblio_data), list_from_1_to_100)

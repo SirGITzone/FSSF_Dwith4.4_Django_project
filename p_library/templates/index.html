@@ -1,2 +1,42 @@
-Добро пожаловать в {{ title }}. <br>
+<!-- Добро пожаловать в {{ title }}  <br>.
 Тут собрано {{ books_count }} книг из моей личной коллекции.
+
+<table border="1">
+    {% for book in books %}
+    <tr>
+        <td>{{ book.title }}</td>
+        <td>{{ book.ISBN }}</td>
+        <td>{{ book.description }}</td>
+        <td>{{ book.year_release }}</td>
+        <td>{{ book.author.full_name }}</td>
+        <td>{{ book.author.country }}</td>
+    </tr>
+    {% endfor %}
+</table> -->
+
+
+Добро пожаловать в {{ title }}  <br>.
+Тут собрано {{ books|length }} книг из моей личной коллекции.
+
+<table border="1">
+    {% for book in books %}
+    <tr>
+        <td>{{ forloop.counter }}</td>
+        <td>{{ book.title }}</td>
+        <td>{{ book.ISBN }}</td>
+        <td>{{ book.description }}</td>
+        <td>{{ book.year_release }}</td>
+        <td>{{ book.author.full_name }}</td>
+        <td>{{ book.author.country }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+{% for i in list_from_1_to_100 %}
+    {% if i|divisibleby:"3" %}
+        <p>{{ i }}</p>
+    {% endif %}
+{% endfor %}
+
+
+
