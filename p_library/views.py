@@ -34,5 +34,6 @@ def index(request):
     biblio_data = {
         "title": "мою библиотеку",
         "books": books,
+        "digits": list_from_1_to_100
     }
-    return HttpResponse(template.render(biblio_data), list_from_1_to_100)
+    return HttpResponse(template.render(biblio_data))

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8f5aa28-50f8-4318-84e9-c29ee015c7c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p_library/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/p_library/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/p_library/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p_library/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p_library/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/p_library/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,17 +81,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="18.01 morning" />
     <MESSAGE value="exp" />
-    <option name="LAST_COMMIT_MESSAGE" value="exp" />
+    <MESSAGE value="23.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="116" y="28" key="CommitChangelistDialog2" timestamp="1579579888948">
+    <state x="116" y="28" key="CommitChangelistDialog2" timestamp="1579774141528">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="116" y="28" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1579579888948" />
-    <state x="312" y="165" key="Vcs.Push.Dialog.v2" timestamp="1579579913152">
+    <state x="116" y="28" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1579774141528" />
+    <state x="312" y="165" key="Vcs.Push.Dialog.v2" timestamp="1580568444776">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1579579913152" />
+    <state x="312" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1580568444776" />
     <state x="531" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579579578082">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
