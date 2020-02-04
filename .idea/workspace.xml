@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8f5aa28-50f8-4318-84e9-c29ee015c7c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Base.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_site/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p_library/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p_library/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p_library/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/p_library/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,13 +80,14 @@
     <MESSAGE value="exp" />
     <MESSAGE value="23.01" />
     <MESSAGE value="01.02 резерв" />
-    <option name="LAST_COMMIT_MESSAGE" value="01.02 резерв" />
+    <MESSAGE value="04.02 перед ДР" />
+    <option name="LAST_COMMIT_MESSAGE" value="04.02 перед ДР" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="116" y="28" key="CommitChangelistDialog2" timestamp="1580568477808">
+    <state x="116" y="28" key="CommitChangelistDialog2" timestamp="1580831223274">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="116" y="28" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1580568477808" />
+    <state x="116" y="28" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1580831223274" />
     <state x="223" y="75" key="SettingsEditor" timestamp="1580828445482">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
