@@ -7,7 +7,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from django.template import loader
 from django.shortcuts import redirect
-from p_library.models import Book
+from p_library.models import Book, PublishingHouse
 
 
 def books_list(request):
@@ -73,3 +73,12 @@ def book_decrement(request):
         return redirect('/index/')
     else:
         return redirect('/index/')
+
+
+def publishing_house(request):
+    template = loader.get_template('publishing_house.html')
+    publishing_houses = PublishingHouse.objects.all()
+    data = {
+        "publishing_houses": publishing_houses,
+    }
+    return HttpResponse(template.render(data, request))

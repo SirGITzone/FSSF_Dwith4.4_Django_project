@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8f5aa28-50f8-4318-84e9-c29ee015c7c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p_library/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/p_library/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,18 +84,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="04.02 перед ДР" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="116" y="28" key="CommitChangelistDialog2" timestamp="1580831223274">
+    <state x="116" y="28" key="CommitChangelistDialog2" timestamp="1580831314639">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="116" y="28" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1580831223274" />
+    <state x="116" y="28" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1580831314639" />
     <state x="223" y="75" key="SettingsEditor" timestamp="1580828445482">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="75" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1580828445482" />
-    <state x="312" y="165" key="Vcs.Push.Dialog.v2" timestamp="1580568488973">
+    <state x="312" y="165" key="Vcs.Push.Dialog.v2" timestamp="1580831358115">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1580568488973" />
+    <state x="312" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1580831358115" />
     <state x="531" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579579578082">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
