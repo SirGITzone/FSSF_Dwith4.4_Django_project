@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8f5aa28-50f8-4318-84e9-c29ee015c7c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Base.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p_library/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/p_library/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/p_library/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p_library/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/p_library/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/p_library/views.py" afterDir="false" />
     </list>
@@ -34,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -82,17 +85,22 @@
     <MESSAGE value="18.01 morning" />
     <MESSAGE value="exp" />
     <MESSAGE value="23.01" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01" />
+    <MESSAGE value="01.02 резерв" />
+    <option name="LAST_COMMIT_MESSAGE" value="01.02 резерв" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="116" y="28" key="CommitChangelistDialog2" timestamp="1579774141528">
+    <state x="116" y="28" key="CommitChangelistDialog2" timestamp="1580568477808">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="116" y="28" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1579774141528" />
-    <state x="312" y="165" key="Vcs.Push.Dialog.v2" timestamp="1580568444776">
+    <state x="116" y="28" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1580568477808" />
+    <state x="223" y="75" key="SettingsEditor" timestamp="1580828445482">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1580568444776" />
+    <state x="223" y="75" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1580828445482" />
+    <state x="312" y="165" key="Vcs.Push.Dialog.v2" timestamp="1580568488973">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1580568488973" />
     <state x="531" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579579578082">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
